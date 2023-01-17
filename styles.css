@@ -1,2 +1,18 @@
 
 /* Your CSS Code here. */
+.name{
+    padding: 10px 10px;
+
+}
+.portfolio{
+    padding: 10px 10px;
+}
+.submit{
+    padding: 10px 10px;
+}
+.favourite{
+    padding: 10px 10px;
+}
+.body{
+    background-color: burlywood;
+}
