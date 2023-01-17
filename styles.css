@@ -2,17 +2,28 @@
 /* Your CSS Code here. */
 .name{
     padding: 10px 10px;
+    color: white;
+    font-size: 18px;
 
 }
 .portfolio{
     padding: 10px 10px;
+    color: white;
+    font-size: 18px;
 }
 .submit{
     padding: 10px 10px;
+    color: white;
+    font-size: 18px;
 }
 .favourite{
     padding: 10px 10px;
+    color: white;
+    font-size: 18px;
 }
-.body{
-    background-color: burlywood;
+h1{
+    color: white;
+}
+body{
+    background-color: rgb(74, 25, 121);
 }
